@@ -1,5 +1,7 @@
  I'm a Full Stack Junior Developer in the Maldives 🇲🇻
 
+ [![Jellyseerr](https://github-readme-stats.vercel.app/api/pin/?username=Fallenbagel&repo=jellyseerr)](https://github.com/Fallenbagel/jellyseerr)
+
 <a href="https://www.buymeacoffee.com/fallen.bagel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p>
