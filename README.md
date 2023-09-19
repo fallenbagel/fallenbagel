@@ -26,7 +26,9 @@ I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, wh
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,ae,alpinejs,bash,blender,bootstrap,cloudflare,css,bots,express,fastapi,flask,github,graphql,html,ai,js,laravel,linux,mysql,neovim,nestjs,nextjs,nginx,nodejs,ps,php,postgres,postman,pr,py,raspberrypi,react,regex,rust,sqlite,tailwind,ts,unity,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,ae,alpinejs,bash,blender,bootstrap,cloudflare,css,bots,express,fastapi,flask,graphql,html,ai,js,laravel,linux,mysql,neovim,nextjs,nginx,nodejs,ps,php,postgres,postman,pr,py,raspberrypi,react,regex,rust,sqlite,tailwind,ts,unity,wordpress,nix" />
+      <br/>
+      <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256893/file-type-nix-icon-md.png" width="50px" height="50px"/>
   </a>
 </p>
 
