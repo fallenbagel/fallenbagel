@@ -18,7 +18,7 @@
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,ae,alpinejs,bash,blender,bootstrap,cloudflare,css,bots,express,fastapi,flask,github,graphql,html,ai,js,laravel,linux,mysql,neovim,nestjs,nextjs,nginx,nodejs,ps,php,postgres,powershell,postman,pr,py,raspberrypi,react,regex,rust,sqlite,tailwind,ts,unity,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,ae,alpinejs,bash,blender,bootstrap,cloudflare,css,bots,express,fastapi,flask,github,graphql,html,ai,js,laravel,linux,mysql,neovim,nestjs,nextjs,nginx,nodejs,ps,php,postgres,postman,pr,py,raspberrypi,react,regex,rust,sqlite,tailwind,ts,unity,vscode,wordpress" />
   </a>
 </p>
 
