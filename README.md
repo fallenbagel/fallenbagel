@@ -6,11 +6,14 @@
 
 I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, where I combine my love for coding with the stunning ocean view.
 
+
 ### Open-source projects that I maintain
  [![Jellyseerr](https://github-readme-stats.vercel.app/api/pin/?username=Fallenbagel&repo=jellyseerr)](https://github.com/Fallenbagel/jellyseerr)
 
+
 ### Buy me a coffee! ☕
 <a href="https://www.buymeacoffee.com/fallen.bagel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 
 ### Stats
 <p>
@@ -18,6 +21,7 @@ I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, wh
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=fallenbagel&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
+
 
 ### Skills
 <p align="left">
