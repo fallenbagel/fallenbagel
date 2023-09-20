@@ -10,9 +10,9 @@
         }
       </style>
 
-        <div class="desktop-only">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=%20console.log%28'Error%3A%20User%20brain%20not%20found!'%29.%20
-)](https://github.com/piyushsuthar/github-readme-quotes)
-        </div>
+      <a href="https://github.com/piyushsuthar/github-readme-quotes" class="desktop-only">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=%20console.log%28'Error%3A%20User%20brain%20not%20found!'%29.%20" alt="Readme Quotes">
+      </a>
     </div>
   </foreignObject>
 </svg>
