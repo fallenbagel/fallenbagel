@@ -28,6 +28,6 @@ I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, wh
   [![An image of @fallenbagel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fallenbagel)](https://holopin.io/@fallenbagel)
 </details>
 
-<img src="footer.svg width="800" height="400">
+<img src="footer.svg" width="800" height="400">
 
 
