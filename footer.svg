@@ -1,0 +1,18 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        @media (max-width: 768px) {
+          .desktop-only {
+            display: none;
+          }
+        }
+      </style>
+
+        <div class="desktop-only">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=%20console.log%28'Error%3A%20User%20brain%20not%20found!'%29.%20
+)](https://github.com/piyushsuthar/github-readme-quotes)
+        </div>
+    </div>
+  </foreignObject>
+</svg>
