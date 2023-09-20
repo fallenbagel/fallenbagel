@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Fallenbagel;Full-stack%20junior%20developer;Enthusiastic%20Learner;Maldivian%20🇲🇻;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Fallenbagel;Full-stack%20junior%20developer;Learning%20Enthusiast;Maldivian%20🇲🇻;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, where I combine my love for coding with the stunning ocean view.
@@ -22,16 +22,13 @@ I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, wh
   <br>
 </p>
 
+<details> 
+  <summary><h2>Holopin Badges</h2></summary>
 
-### Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,ae,alpinejs,bash,blender,bootstrap,cloudflare,css,bots,express,fastapi,flask,graphql,html,ai,js,laravel,linux,mysql,neovim,nextjs,nginx,nodejs,ps,php,postgres,postman,pr,py,raspberrypi,react,regex,rust,sqlite,tailwind,ts,unity,wordpress,nix" />
-      <br/>
-      <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256893/file-type-nix-icon-md.png" width="50px" height="50px"/>
-  </a>
-</p>
+  [![An image of @fallenbagel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fallenbagel)](https://holopin.io/@fallenbagel)
+</details>
 
-<br/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=%20console.log%28'Error%3A%20User%20brain%20not%20found!'%29.%20
+)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
