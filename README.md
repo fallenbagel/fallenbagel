@@ -28,7 +28,15 @@ I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, wh
   [![An image of @fallenbagel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fallenbagel)](https://holopin.io/@fallenbagel)
 </details>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=%20console.log%28'Error%3A%20User%20brain%20not%20found!'%29.%20
-)](https://github.com/piyushsuthar/github-readme-quotes)
+<div class="desktop-only">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=%20console.log%28'Error%3A%20User%20brain%20not%20found!'%29.%20
+)](https://github.com/piyushsuthar/github-readme-quotes)</div>
+
+<style>
+@media (max-width: 768px) {
+  .desktop-only {
+    display: none;
+  }
+}
+</style>
 
 
