@@ -22,6 +22,9 @@ I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, wh
   <br>
 </p>
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Fallenbagel&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Fallenbagel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <details> 
   <summary><h2>Holopin Badges</h2></summary>
 
