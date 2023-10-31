@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Fallenbagel;Full-stack%20junior%20developer;Learning%20Enthusiast;Maldivian%20🇲🇻;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-I'm a passionate Full Stack Junior Developer based in the beautiful Maldives, where I combine my love for coding with the stunning ocean view.
+I'm a passionate Full Stack Junior Developer.
 
 
 ### Open-source projects that I maintain
