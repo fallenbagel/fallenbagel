@@ -1,10 +1,10 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Fallenbagel;Junior%20Full-Stack%20Developer;Learning%20Enthusiast;Maldivian%20🇲🇻;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Fallenbagel;Full-Stack%20Developer;Maldivian%20🇲🇻;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-Just another Junior Full-Stack Developer.
+Just another Full-Stack Developer.
 
 
 ### Open-source projects
