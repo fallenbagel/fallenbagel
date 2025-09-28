@@ -1,4 +1,4 @@
-Just another Full-Stack Developer. And aspiring Software Engineers (Msc.)
+Full-Stack Software Engineer currently pursuing a Master’s in Software Engineering (MSc).
 
 
 ### Open-source projects
